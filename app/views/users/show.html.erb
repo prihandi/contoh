@@ -8,4 +8,15 @@
       </h1>
     </section>
   </aside>
+  <div class="col-md-8">
+
+    <%= will_paginate @microposts  %>
+
+    <ul class="microposts">
+      <%= render @microposts %>
+    </ul>
+
+    <%= will_paginate @microposts %>
+
+  </div>
 </div>
