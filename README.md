@@ -1,4 +1,4 @@
-# Dwi Prihansi project based on Ruby on Rails Tutorial: 
+# Dwi Prihandi project based on Ruby on Rails Tutorial: 
 
 Hasil percobaan railstutorial 
 [*Ruby on Rails Tutorial:
@@ -10,4 +10,4 @@ Hanya merubah setting Mailer menggunakan gmail,alih-alih SendGrid add-on di Hero
 so far works as expected
 
 Hasilnya bisa dicoba di 
-[*Heroku :Prihandi-contoh*](https://prihandi-contoh.herokuapp.com/)
+[*Heroku* prihandi-contoh](https://prihandi-contoh.herokuapp.com/)
